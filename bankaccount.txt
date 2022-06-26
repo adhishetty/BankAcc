@@ -2,3 +2,8 @@ name	type
 adi	savings
 amma	current
 jenny	dog
+sandeep	savings
+bigu	savings
+sikku	current
+khemu	savings
+aryan	savings

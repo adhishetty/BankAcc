@@ -1,0 +1,5 @@
+from	to
+adi	anna
+amma	adi	
+sandeep	aryan
+bigu	sandeep
